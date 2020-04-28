@@ -1,1 +1,12 @@
 # LEETCODE DP类问题分类
+1. linear_dp 线性DP
+2. range_dp 区间DP
+3. bag_dp 背包DP
+4. tree_dp 树形DP
+5. status_compress_dp 状态压缩DP
+6. digit_num_dp 数位DP
+7. count_dp 计数型DP
+8. recursive_dp 递推DP
+9. statistic_dp 概率型DP
+10. play_dp 博弈型DP
+11. memorized_compress_dp 记忆化搜索
